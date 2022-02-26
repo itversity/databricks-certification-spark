@@ -3,7 +3,7 @@ Databricks Certified Associate Spark Developer preparation toolkit to setup sing
 
 ## Udemy Courses
 
-This GitHub repository can be leveraged to setup Single Node Hadoop and Spark Cluster along with Jupyterlab and Postgres to learn Python, SQL, Hadoop, Hive, and Spark which are covered as part of these Udemy courses. They are available at a max of $25 and we provide $10 coupons 2 times every month. Also, these courses are part of Udemy for business.
+This GitHub repository can be leveraged to setup Single Node Spark Cluster using Standalone along with Jupyterlab to prepare for the [Databricks Certified Associate Developer - Apache Spark](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHBPZ2NqWVNyeGgzb3N0Znd2Mk44YnNZVWFvUXxBQ3Jtc0tsbGt6ZFlDSmZVX3ZGbGpXbHFaRGlYOWFCUEhHWWM0X2xULV9KZUdzNF9nV3doRUhOU0hGR3F1QWhuV2JKOHNoYzdfNVVUS3R1UmY3MzloVTVrNEt6em95TnBXbVJVX21VdlFXSmNLOWt2cHItdjA0Yw&q=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdatabricks-certified-associate-developer-for-apache-spark%2F%3FreferralCode%3D01367D05117098EB335C&stzid=UgxUkUUrmrdXdznXHqR4AaABAg). They are available at a max of $25 and we provide $10 coupons 2 times every month. Also, these courses are part of Udemy for business.
 * [Databricks Certified Associate Developer - Apache Spark](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHBPZ2NqWVNyeGgzb3N0Znd2Mk44YnNZVWFvUXxBQ3Jtc0tsbGt6ZFlDSmZVX3ZGbGpXbHFaRGlYOWFCUEhHWWM0X2xULV9KZUdzNF9nV3doRUhOU0hGR3F1QWhuV2JKOHNoYzdfNVVUS3R1UmY3MzloVTVrNEt6em95TnBXbVJVX21VdlFXSmNLOWt2cHItdjA0Yw&q=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdatabricks-certified-associate-developer-for-apache-spark%2F%3FreferralCode%3D01367D05117098EB335C&stzid=UgxUkUUrmrdXdznXHqR4AaABAg)
 
 ## Technologies Covered
