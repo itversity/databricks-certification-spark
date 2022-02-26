@@ -1,0 +1,17 @@
+services:
+  itvspark3:
+    image: itvspark3
+    hostname: itvspark3
+    ports:
+      - "8888:8888"
+    volumes:
+      - "./itversity-material:/home/itversity/itversity-material"
+      - "./data:/data"
+      - "./data:/public"
+    environment:
+      SHELL: /bin/bash
+    networks:
+      - itvdelabnw
+networks:
+  itvdelabnw:
+    name: itvdelabnw

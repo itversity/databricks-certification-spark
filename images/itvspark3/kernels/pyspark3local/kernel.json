@@ -1,0 +1,18 @@
+{
+      "argv": [
+        "python",
+        "-m",
+        "ipykernel_launcher",
+        "-f",
+        "{connection_file}"
+      ],
+      "display_name": "Pyspark 3 (local)",
+      "language": "python",
+      "env": {
+        "PYSPARK_PYTHON": "/usr/bin/python3",
+        "SPARK_HOME": "/opt/spark3/",
+        "PYTHONSTARTUP": "/opt/spark3/python/pyspark/shell.py",
+        "PYSPARK_SUBMIT_ARGS": "--master local pyspark-shell",
+        "PYTHONPATH": "/opt/spark3/python/lib/py4j-0.10.9-src.zip:/opt/spark3/python/"
+      }
+}

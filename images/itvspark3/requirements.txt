@@ -1,0 +1,4 @@
+jupyterlab==3.2.9
+pandas==1.4.1
+# ipython-sql==0.4.0
+# toree==0.4.0

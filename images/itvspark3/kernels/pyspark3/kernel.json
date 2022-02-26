@@ -1,0 +1,18 @@
+{
+      "argv": [
+        "python",
+        "-m",
+        "ipykernel_launcher",
+        "-f",
+        "{connection_file}"
+      ],
+      "display_name": "Pyspark 3",
+      "language": "python",
+      "env": {
+        "PYSPARK_PYTHON": "/usr/bin/python3",
+        "SPARK_HOME": "/opt/spark3/",
+        "SPARK_OPTS": "--master spark://itvspark3:7077",
+        "PYTHONSTARTUP": "/opt/spark3/python/pyspark/shell.py",
+        "PYTHONPATH": "/opt/spark3/python/lib/py4j-0.10.9-src.zip:/opt/spark3/python/"
+      }
+}
