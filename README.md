@@ -1,4 +1,4 @@
-# databricks-certification-spark
+# Databricks Certification Spark
 Databricks Certified Associate Spark Developer preparation toolkit to setup single node Standalone Spark Cluster along with material in the form of Jupyter Notebooks. This is extensively used as part of our Udemy courses as well as our upcoming guided programs related to [Databricks Certified Associate Spark Developer](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHBPZ2NqWVNyeGgzb3N0Znd2Mk44YnNZVWFvUXxBQ3Jtc0tsbGt6ZFlDSmZVX3ZGbGpXbHFaRGlYOWFCUEhHWWM0X2xULV9KZUdzNF9nV3doRUhOU0hGR3F1QWhuV2JKOHNoYzdfNVVUS3R1UmY3MzloVTVrNEt6em95TnBXbVJVX21VdlFXSmNLOWt2cHItdjA0Yw&q=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdatabricks-certified-associate-developer-for-apache-spark%2F%3FreferralCode%3D01367D05117098EB335C&stzid=UgxUkUUrmrdXdznXHqR4AaABAg).
 
 ## Udemy Courses
