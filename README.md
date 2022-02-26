@@ -41,7 +41,7 @@ Here are the steps one need to follow to setup the lab.
 
 ### Pull the Image
 
-Hadoop and Spark image is quite big. It is close to 1.5 GB.
+Spark image is of moderate size. It is close to 1.5 GB.
 * Make sure to pull it before running `docker-compose` command to setup the lab.
 * You can pull the image using `docker pull itversity/itvspark3`.
 * You can validate if the image is successfully pulled or not by running `docker images` command.
@@ -50,7 +50,7 @@ Hadoop and Spark image is quite big. It is close to 1.5 GB.
 
 Here are the steps to start the environment.
 * Run `docker-compose up -d --build itvspark3`.
-* It will set up single node Hadoop, Hive and Spark Environment along with metastore for hive.
+* It will set up single node Stand Alone Spark Cluster.
 * You can run `docker-compose logs -f itvspark3` to review the progress. It will take some time to complete the setup process.
 * You can stop the environment using `docker-compose stop` command.
 
