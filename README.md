@@ -1,5 +1,5 @@
 # Databricks Certification Spark
-Databricks Certified Associate Spark Developer preparation toolkit to setup single node Standalone Spark Cluster along with material in the form of Jupyter Notebooks. This is extensively used as part of our Udemy courses as well as our upcoming guided programs related to [Databricks Certified Associate Spark Developer](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHBPZ2NqWVNyeGgzb3N0Znd2Mk44YnNZVWFvUXxBQ3Jtc0tsbGt6ZFlDSmZVX3ZGbGpXbHFaRGlYOWFCUEhHWWM0X2xULV9KZUdzNF9nV3doRUhOU0hGR3F1QWhuV2JKOHNoYzdfNVVUS3R1UmY3MzloVTVrNEt6em95TnBXbVJVX21VdlFXSmNLOWt2cHItdjA0Yw&q=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdatabricks-certified-associate-developer-for-apache-spark%2F%3FreferralCode%3D01367D05117098EB335C&stzid=UgxUkUUrmrdXdznXHqR4AaABAg).
+Databricks Certified Associate Spark Developer preparation toolkit to setup single node Standalone Spark Cluster along with material in the form of Jupyter Notebooks. This is extensively used as part of our Udemy courses as well as our upcoming guided programs related to [Databricks Certified Associate Spark Developer](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/learn/?referralCode=01367D05117098EB335C).
 
 ## Udemy Courses
 
@@ -51,7 +51,7 @@ Hadoop and Spark image is quite big. It is close to 1.5 GB.
 Here are the steps to start the environment.
 * Run `docker-compose up -d --build itvspark3`.
 * It will set up single node Hadoop, Hive and Spark Environment along with metastore for hive.
-* You can run `docker-compose logs -f itvdelab` to review the progress. It will take some time to complete the setup process.
+* You can run `docker-compose logs -f itvspark3` to review the progress. It will take some time to complete the setup process.
 * You can stop the environment using `docker-compose stop` command.
 
 ### Access the Lab
@@ -61,12 +61,12 @@ Here are the steps to access the lab.
 * Get the token from the Jupyter Lab container using below command.
 
 ```shell
-docker-compose exec itvdelab \
+docker-compose exec itvspark3 \
   sh -c "cat .local/share/jupyter/runtime/jpserver-*.json"
 ```
 
 * Use the token to login using [http://localhost:8888/lab](http://localhost:8888/lab)
 
-### Access Hadoop and Pyspark Material
+### Access [Databricks Certified Associate Developer - Apache Spark](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/learn/?referralCode=01367D05117098EB335C) Material
 
-Once you login, you should be able to go through the third major module under **itversity-material** to access the content.
+Once you login, you should be able to go through the module under **itversity-material** to access the content.
