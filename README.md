@@ -3,19 +3,19 @@ Databricks Certified Associate Spark Developer preparation toolkit to setup sing
 
 ## Udemy Courses
 
-This GitHub repository can be leveraged to setup Single Node Spark Cluster using Standalone along with Jupyterlab to prepare for the [Databricks Certified Associate Developer - Apache Spark](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHBPZ2NqWVNyeGgzb3N0Znd2Mk44YnNZVWFvUXxBQ3Jtc0tsbGt6ZFlDSmZVX3ZGbGpXbHFaRGlYOWFCUEhHWWM0X2xULV9KZUdzNF9nV3doRUhOU0hGR3F1QWhuV2JKOHNoYzdfNVVUS3R1UmY3MzloVTVrNEt6em95TnBXbVJVX21VdlFXSmNLOWt2cHItdjA0Yw&q=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdatabricks-certified-associate-developer-for-apache-spark%2F%3FreferralCode%3D01367D05117098EB335C&stzid=UgxUkUUrmrdXdznXHqR4AaABAg). They are available at a max of $25 and we provide $10 coupons 2 times every month. Also, these courses are part of Udemy for business.
-* [Databricks Certified Associate Developer - Apache Spark](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHBPZ2NqWVNyeGgzb3N0Znd2Mk44YnNZVWFvUXxBQ3Jtc0tsbGt6ZFlDSmZVX3ZGbGpXbHFaRGlYOWFCUEhHWWM0X2xULV9KZUdzNF9nV3doRUhOU0hGR3F1QWhuV2JKOHNoYzdfNVVUS3R1UmY3MzloVTVrNEt6em95TnBXbVJVX21VdlFXSmNLOWt2cHItdjA0Yw&q=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdatabricks-certified-associate-developer-for-apache-spark%2F%3FreferralCode%3D01367D05117098EB335C&stzid=UgxUkUUrmrdXdznXHqR4AaABAg)
+This GitHub repository can be leveraged to setup Single Node Spark Cluster using Standalone along with Jupyterlab to prepare for the [Databricks Certified Associate Developer - Apache Spark](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/learn/?referralCode=01367D05117098EB335C). They are available at a max of $25 and we provide $10 coupons 2 times every month. Also, these courses are part of Udemy for business.
+* [Databricks Certified Associate Developer - Apache Spark](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/learn/?referralCode=01367D05117098EB335C)
 
 ## Technologies Covered
 
-As part of this custom image built by us, we have included the following as a preparation toolkit for [Databricks Certified Associate Developer - Apache Spark](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHBPZ2NqWVNyeGgzb3N0Znd2Mk44YnNZVWFvUXxBQ3Jtc0tsbGt6ZFlDSmZVX3ZGbGpXbHFaRGlYOWFCUEhHWWM0X2xULV9KZUdzNF9nV3doRUhOU0hGR3F1QWhuV2JKOHNoYzdfNVVUS3R1UmY3MzloVTVrNEt6em95TnBXbVJVX21VdlFXSmNLOWt2cHItdjA0Yw&q=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdatabricks-certified-associate-developer-for-apache-spark%2F%3FreferralCode%3D01367D05117098EB335C&stzid=UgxUkUUrmrdXdznXHqR4AaABAg).
+As part of this custom image built by us, we have included the following as a preparation toolkit for [Databricks Certified Associate Developer - Apache Spark](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/learn/?referralCode=01367D05117098EB335C).
 * Apache Spark 3 using Spark Stand Alone Cluster
-* Jupyter based environment along with material for the preparation towards [Databricks Certified Associate Developer - Apache Spark](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHBPZ2NqWVNyeGgzb3N0Znd2Mk44YnNZVWFvUXxBQ3Jtc0tsbGt6ZFlDSmZVX3ZGbGpXbHFaRGlYOWFCUEhHWWM0X2xULV9KZUdzNF9nV3doRUhOU0hGR3F1QWhuV2JKOHNoYzdfNVVUS3R1UmY3MzloVTVrNEt6em95TnBXbVJVX21VdlFXSmNLOWt2cHItdjA0Yw&q=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdatabricks-certified-associate-developer-for-apache-spark%2F%3FreferralCode%3D01367D05117098EB335C&stzid=UgxUkUUrmrdXdznXHqR4AaABAg)
+* Jupyter based environment along with material for the preparation towards [Databricks Certified Associate Developer - Apache Spark](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/learn/?referralCode=01367D05117098EB335C)
 * If you set up the environment as instructed as part of our courses then you will also get the data sets as well as material in the form of Jupyter Notebooks.
 
 For all video lectures, up-to-date material, live support - feel free to sign up for our Udemy courses or our upcoming guided programs.
 
-## Setup Spark Lab for [Databricks Certified Associate Developer - Apache Spark](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHBPZ2NqWVNyeGgzb3N0Znd2Mk44YnNZVWFvUXxBQ3Jtc0tsbGt6ZFlDSmZVX3ZGbGpXbHFaRGlYOWFCUEhHWWM0X2xULV9KZUdzNF9nV3doRUhOU0hGR3F1QWhuV2JKOHNoYzdfNVVUS3R1UmY3MzloVTVrNEt6em95TnBXbVJVX21VdlFXSmNLOWt2cHItdjA0Yw&q=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdatabricks-certified-associate-developer-for-apache-spark%2F%3FreferralCode%3D01367D05117098EB335C&stzid=UgxUkUUrmrdXdznXHqR4AaABAg)
+## Setup Spark Lab for [Databricks Certified Associate Developer - Apache Spark](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/learn/?referralCode=01367D05117098EB335C)
 
 ### Pre-requisites
 
@@ -37,7 +37,7 @@ If you are using Windows or Mac, you need to change the settings to use as much 
 ### Setup Environment
 
 Here are the steps one need to follow to setup the lab.
-* Clone the repository by running `git clone https://github.com/itversity/data-engineering-spark`.
+* Clone the repository by running `git clone https://github.com/itversity/databricks-certification-spark`.
 
 ### Pull the Image
 
